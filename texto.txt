@@ -1,0 +1,13 @@
+From stephen.marquard@uct.ac.za Sat Jan 
+Return-Path: <postmaster@collab.sakaiproject.org>
+Received: from murder (mail.umich.edu)
+	 by frankenstein.mail.umich.edu (Cyrus) with LMTPA;
+	 Sat Jan Jan Jan
+X-Sieve: CMU Sieve 
+Received: from murder (unix socket)
+	 by mail.umich.edu (Cyrus) with LMTPA;
+	 Sat 
+Received: from holes.mr.itd.umich.edu (holes.mr.itd.umich.edu)
+	by flawless.mail.umich.edu  with ESMTP id Sat, Jan 
+Received: FROM paploo.uhi.ac.uk (app1.prod.collab.uhi.ac.uk)
+
